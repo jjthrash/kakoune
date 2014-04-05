@@ -82,6 +82,15 @@ a symbolic link to the $PREFIX/share/kak/rc directory.
 ln -s /usr/share/kak/rc ~/.config/kak/autoload
 ----------------------------------------------
 
+Building and Installing on OSX
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There is a homebrew recipe available. You can install with:
+
+--------------------------------
+brew install kakoune-homebrew.rb
+--------------------------------
+
 Running
 -------
 
